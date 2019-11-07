@@ -1,3 +1,3 @@
 # minimal-gesture-demo
 
-![](fastfocus.gif)
+![](./fastfocus.gif)
